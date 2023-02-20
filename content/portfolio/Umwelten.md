@@ -1,0 +1,30 @@
++++
+draft = false
+image = "/img/Projects/Umwelten/img3.jpg"
+date = "2016-11-05T19:56:17+05:30"
+title = "Umwelten"
+showonlyimage = false
+weight = 1
++++
+
+While most of us are stacked together next to each other in rectangles on our computer screens during the Coronavirus pandemic, the work 'Umwelten' asks us to once again reconsider the futures that we had planned for. Umwelten invites a human, a machine learning algorithm, and a plant to meet once again to question and reformulate our relationships with one another through an exchange - a sensory exchange where our 'umwelts' entangle, overlap, and are morphed with one another. 
+
+The concept of 'Umwelt' (translated as "environment" in English) was proposed by the German biologist Jacob Johann Von Uexküll. Uexküll believed that one should not perceive an animal as an objective entity (a physio-chemical being) but rather as a being that can be discerned based on their behavior in the environments they inhabit. Therefore according to Uexküll, an animal together with its environment form a whole system that he called an "Umwelt". Moreover, Uexküll states that nature conforms to a plan where organic and inorganic beings cohere together in a compositional musical harmony. He interprets organisms as natural tones that try to harmonize with other beings (both living and non-living). 
+
+![][2]
+
+With 'Umwelten' as a research creation project, I am interested in the kind of musical harmony that emerges when a plant, a human, and a machine learning algorithm have a sensorial exchange among themselves. This research intervention posits questions like - How do the umwelts of human and more than human entangle, overlap and are morphed with one another in such an exchange? Does such an invitation of bringing all these entities together also adds a confusion - a confusion emerging from different spatial and temporal perceptions of the three entities? If so, how do we see new futures where such an interweaving of entities is not only crucial but also help us to bring ourselves back to the ontological question of being V. becoming.
+
+![][1]
+
+Concretely, this work is a research-creation project that invites a human, a non-human (a touch-me-not plant), and a machine-learning (ML) algorithm to question and re-formulate the relationship among themselves using the concept of ‘umwelt’ given by the German biologist Jacob Johann Von Uexküll. Through this project, the human and the non-human are brought in the same physical space (with different umwelts) to interact with one another and an ML algorithm, each having an agency to change others’ environment and hence, their umwelts. While the human changes the typography on the screen (using a text writing platform developed as a part of this project) through the typing speed and their choice of letters, both the plant and the (computer vision) machine learning algorithm alter this typography dynamically depending on the images clicked by a camera pointing to the plant. Such interactions manifested on the screen encapsulate a space where a non-linear and confusing typography symbolizes the overlapping, collision, and entanglement of the umwelts of these organisms – depicting the shifting of agencies among the human, the non-human and the machine learning algorithm over time.
+
+#### The set up
+
+The set up consists of a human, a Mimosa Pudica (or touch-me-not) plant, and a camera (that acts as a machinic eye) that asks the human to type while the typography (color, font size, and spacing between the letters) dynamically evolves based on the typing speed of the human. Meanwhile, a camera points to the touch-me-not plant capturing images of the plant frame by frame, sending it to machine learning model trained on the image data set of the plant - classifying the plant into two categories (closed or open) with respective probabilities. While the leaves of the 'touch me not' plant are susceptible to close or open depending on the external stimuli (sunlight, a human hand or a fly), the machine learning algorithm continously predicts the leaves to be open or closed acting as a "sensing" machinic eye. The probabilities of the classification again influence the typography on the screen thus disrupting the human sensory input-output on the screen. Hence, this dynamically evolving typography on the screen manifests in itself the different time scales that make up the umwelts of the different entities - the plant (which takes approximately 10 minutes to open its leaves once closed because of an external stimulus), the computational clock time of the predictive machine learning algorithm, and the physiological time of a human being.
+
+{{< vimeo 700294877>}}
+
+
+[1]: /img/Projects/Umwelten/img3.jpg
+[2]: /img/Projects/Umwelten/uexkull.png
