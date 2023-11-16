@@ -15,6 +15,7 @@ cybernetic performance over time.
 
 ![][1]
 
+
 ## Introduction
 
 The intake of digital information till date is heavily based on rectangular
@@ -29,13 +30,16 @@ the impact of human activities on the world outside the human
 life thus creating biased sensory perceptions about the world - the
 world where humans co-exist with other living and non-living being.
 
-![][2]
+{{< youtube qoF4-tctja8 >}}
 
 Hence, the goal of this project is to build a multi-sensory digital
 interface (a text writing platform) as a proof of concept where the
 human is coupled with a non-human (a mimosa plant) to interact
 in a digital space thus metaphorically depicting the importance of
 each other’s presence for existence.
+
+![][2] 
+
 The digital interface for this project is designed to be a text writing
 platform where the typography of the text (font size, spacing,
 color) dynamically evolves over time based on the respective goals

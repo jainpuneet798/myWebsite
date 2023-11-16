@@ -9,12 +9,13 @@ weight = 1
 
 Motivated by the concept of criphackathon from disability-led activism, I along with my friends (from Indian Insitute of Science, Bangalore) conducted a disability hackathon at Indian Insitute of Technology, Chennai in October 2022. 
 
-
 ![][4]
 
 ![][5]
 
 ![][6]
+
+![][9]
 
 ![][7]
 
@@ -29,3 +30,4 @@ Motivated by the concept of criphackathon from disability-led activism, I along 
 [6]: /img/Projects/DisabilityHackathon/img6.jpg
 [7]: /img/Projects/DisabilityHackathon/img7.jpg
 [8]: /img/Projects/DisabilityHackathon/img8.jpg
+[9]: /img/Projects/DisabilityHackathon/img9.jpg

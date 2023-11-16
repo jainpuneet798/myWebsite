@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "green"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "Puneet Jain"
   sidebarAbout = [
     "Hi! I am Puneet Jain. I am currently pursuing a PhD at Milieux Institute for Arts, Culture, and Technology at Concordia University, Canada."
   ]
@@ -51,7 +51,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Publications"
-  url = "publications/"
+  url = "https://scholar.google.com/citations?user=WVU7aOQAAAAJ&hl=en"
 
   [[params.navlinks]]
   name = "Contact"

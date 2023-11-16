@@ -21,6 +21,8 @@ Since the glove doesn't provide any sensory feedback, I built a scene in Unity i
 
 One of the carry forward work to this exploration of interacting with the virtual world through a hand led us to create our own version of proof of concept of a glove (a bike glove ~ 1$) integrated with an IMU to create in depth motion of the hand. One of the reason for this exploration was that mostly the hands in a virtual scene - hands using LeapMotion or a BLE device like CaptoGlove do not extend into the speth of the screen i.e. along the z-axis. Hence I created a demo using the jerk (derivative of acceleration) as a feature to investigate the same.
 
+{{< youtube 8LX0wfUVvL8 >}} [Futile effort to integrate depth for hand tracking in VR]
+
 ![][2]
 
 ![][1]
