@@ -22,7 +22,7 @@ Overall, genealogy of Puneet's work could be seen as an investigation in researc
 * Bodies, Machines, Publics Residency at Khoj Studios, New Delhi (21st October, 2024 - 13th December, 2024)
 * Talk at Disability, Technology and Change: Adjusting, hacking, and repairing as practices of inventing Workshop, Humboldt-Universität zu Berlin (15th - 16th November, 2024)
 * Talk at 'Symposium in Time' at Zurich University of Arts, Switzerland (29th - 30th November, 2024)
-* Panel discussion at CAA conference, New York, US (12th - 15th February, 2025)
+
 
 ##### Past Experience
 
