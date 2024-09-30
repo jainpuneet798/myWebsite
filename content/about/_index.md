@@ -26,7 +26,7 @@ Overall, genealogy of Puneet's work could be seen as an investigation in researc
 
 ##### Past Experience
 
-* Spring Term Student at IT:U in Linz, Austria (2024)
+* Spring Term Student at IT:U in Linz, Austria (2024) 
 * FOUNDING LAB student at IT:U * Ars Electronica (2023-2024).
 * VR/AR Researcher at Zurich University of Arts, Swtizerland (2023).
 * VR Researcher at Zu, Montreal, Canada (2021).
