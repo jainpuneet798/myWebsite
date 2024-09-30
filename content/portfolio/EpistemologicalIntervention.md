@@ -15,6 +15,8 @@ and a non-human (a machine learning algorithm) to search for new ethnographic me
 of knowing the world, what Anthropologist Dara Culhane also refers to as “co-creative”
 knowledge making.
 
+{{< vimeo 884509856 >}}
+
 ![][1]
 
 While computer scientists have developed sophisticated image-to-text computer vision
@@ -37,7 +39,7 @@ to co-create new forms of epistemologies.
 
 ###### example video of the first prototype of the interface
 
-{{< video src="/img/Projects/EpistemologicalIntervention/Haley.mp4" class="my-video" width="640" height="360" >}}[in picture: Haley]
+{{< vimeo 884509856 >}}
 
 #### Methodology
 

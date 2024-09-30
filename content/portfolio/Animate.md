@@ -2,7 +2,7 @@
 draft = false
 image = "/img/Projects/Animate/Animate.png"
 date = "2023-01-18T19:56:17+05:30"
-title = "Animate"
+title = "Animate (an eXtended Reality [XR] Theatre)"
 showonlyimage = false
 weight = 1
 +++

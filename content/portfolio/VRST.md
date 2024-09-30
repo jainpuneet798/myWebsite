@@ -32,6 +32,10 @@ This paper addresses this research gap by proposing five free-hand gestures for 
 
 ![][2][Gestures to move up, down, forward, backward, and rotate]
 
+{{< vimeo 885443674 >}}
+
+Here is the link to read more about the paper: https://dl.acm.org/doi/10.1145/3611659.3617229
+
 
 [1]: /img/Projects/VRST/controller_user2.png
 [2]: /img/Projects/VRST/gesturesfornavigation.png
