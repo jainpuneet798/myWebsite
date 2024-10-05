@@ -9,6 +9,10 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
+if [[ ! -d "public" ]]; then
+	git clone git@github.com:jainpuneet798/jainpuneet798.github.io public
+fi
+
 cd public
 touch .nojekyll
 
