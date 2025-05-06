@@ -1,38 +1,22 @@
 +++
 draft = false
-image = "/img/Projects/CripGestures/MainFigure4.jpg"
+image = "/img/Projects/CripGestures/IMG_8375.jpg"
 date = "2023-11-08T19:56:17+05:30"
-title = "Crip Sensorama: Re-imagining XR with people with sensorimotor disabilities through criptastic hacking"
+title = "Re-imagining XR with people with sensorimotor disabilities through criptastic hacking"
 showonlyimage = false
 weight = 1
 +++
 
-	"The Future is Disabled" - Leah Laksmi Piepzna-Samarasinha.
+	             "The Future is Disabled" - Leah Laksmi Piepzna-Samarasinha.
 
 {{< vimeo 922130556 >}}
 
-###### Crip Sensorama was exhibited at IT:U and Ars Electronica in Linz, Austria (January, 2024) as part of the FOUNDING LAB program.  
 
-Crip Sensorama is an interactive multi-sensory VR/AR work that investigates how the ableist
+This a post about the making of a series of interventions, that me and my collaborators and friends call 'Crip Sensorama'.  Crip Sensorama(s) are interactive multi-sensory VR/AR work that investigates how the ableist
 technologies of XR (eXtended Reality) could be re-imagined and hacked (in their
 early stages) to act as a platform of storytelling for (and with) people with
 disabilities – shaping their own future imaginaries by opening a portal into disability
 culture and living.
-
-![][7][image credits: Tom Mesic]
-
-![][11][image credits: Tom Mesic]
-
-Crip Sensorama invites the audience to enter the world of disabled artists and
-activists Eric Desrosiers (Montreal, Canada) and Christian Bayerlein (Koblenz,
-Germany) as the audience navigates, moves, and interacts in the virtual world using
-mouth gestures trained and parameterized on Eric and Christian.
-
-![][8][image credits: Tom Mesic]
-
-![][9][image credits: Martin Heislmair]	
-
-![][6][image credits: Tom Mesic]
 
 
 #### Rationale: Motivation and Background
@@ -42,6 +26,9 @@ mouth gestures trained and parameterized on Eric and Christian.
 The current generation of XR technologies still demand an intricate coordination between the head (e.g. 360-degree head movements), hands, and dexterity of body-based gestures (e.g. rapid finger movements on hand-held controllers) to navigate and interact inside the virtual environments – a gestural landscape that my close friends and collaborators Eric Desrosiers and Chrisitan Bayerlein cannot afford. Eric (who is based in Montreal, Canada) and Christian (who is based in Koblenz, Germany) are artists and disability activists living with quadriplegia and regularly work with technologies such as robotic arms for painting, facial recognition algorithms for music generation, and brain-controlled interfaces for flying drones (Bayerlein, 2023). Even with such a technological expertise, unfortunately, they cannot access the world of Virtual and Augmented reality – revealing that these technologies are still designed with implicit assumptions about human bodies, what HCI researchers Gerling and Spiel have also described as a “corporeal standard” (2021) (i.e. an ideal able-bodied user). 
 
 Crip Sensorama, thus, critiquing the use of technology to “cure” disability (what disability scholar Ashley Shew also describes as technoableism (2023)) aims to flip the power dynamics by firstly making these XR technologies assistive and accessible for Christian and Eric, enabling them to interact and navigate in VR/AR environments using a set of mouth gestures parametrized and mapped on the movement of their facial muscles. Secondly, Crip Sensorama extends the limited goals of HCI of just making the technology ‘accessible’ to re-imagining the use of such assistive XR to act as platforms of storytelling for, about, and with people with disabilities.
+
+Crip Sensorama thus invites the audience to enter the world of disabled artists and activists Eric Desrosiers (Montreal, Canada) and Christian Bayerlein (Koblenz, Germany) as the audience navigates, moves, and interacts in the virtual world using mouth gestures trained and parameterized on Eric and Christian.
+
 
 #### Criptastic Hacking
 
@@ -85,22 +72,19 @@ In order to overcome limitations of the facemask implementation on the Quest 2 h
 
 While, the tracker is often sold with its motivation to replicate movements onto a virtual avatar while using VR chat rooms, we hacked it for own purposes. For example, We utilized the internal 34 categories of mouth gestures recognized by an in-built machine learning classification algorithm in SDK of the face tracker. Some examples of these classes of gestures included “mouth open”, “jaw left”, jaw right”, “tongue out” etc.  Overall, according to preferences of Eric and Christian we optimized a final set of gestures and adapted the code to enable Eric and Christian navigate and interact in VR. For example, while Eric preferred “mouth open” gesture to rotate 360-degree clockwise and “tongue out” gesture to move forward in the virtual scene, the “tongue out” gesture could not work for Christian due to the malocclusion of his teeth. Hence, making XR assisitve by integrating an uncommon input modality of mouth gestures to navigate and interact in VR. 
 
-{{< vimeo 893047300 >}} [Eric using mouth gestures to navigate in VR]
-
 {{< vimeo 916294164 >}} [Eric using mouth gestures to move forward, backward, and rotate in VR]
-
-##### Christian using facial microgestures to interact in VR (with HTC Vive Face Tracker)
-
-{{< vimeo 916411630 >}} [Christian opening his mouth to light a candle in VR]
 
 ##### Using assistive XR for storytelling
 
 Thinking of accessibility as an end goal and not as a continous process is very common within the discipline of Human-Computer Interaction. Hence, inorder to provoke this ideology, we propose to take this project beyond just making XR accessible but as mediums of storytelling with and for people with disabilitites -  enabling disabled communities to shape their own future imaginaries using assisitve XR.
 
-Using 360 degree videos, spatialized sounds, interactive mouth gestures to navigate and interact in a world that continously shifts between VR and AR, I along with Eric and Christian developed a 10-15 min experience where audience unfolds this experience using the mouth gestures mapped and parametrized on Eric and Christian - using the tongue, the chin, the gaps between the upper and lower lip. 
+Using 360 degree videos, spatialized sounds, interactive mouth gestures to navigate and interact in a world that continously shifts between VR and AR, I along with Eric and Christian developed 10-15 min XR experiences where audience unfolds this experience using the mouth gestures mapped and parametrized on Eric and Christian - using the tongue, the chin, the gaps between the upper and lower lip. You can find more about in on my website with titled 1) Crip Sensorama: Eric's Paintings and 2) Crip Sensorama: Christian's Coffee. 
 
-{{< vimeo 916615213 >}}
+Please find this video where I talk in detail about the methods, practices and making  of crip sensorama in Dr. Desiree Foerster's course at University of Chicago, US. 
 
+{{< vimeo 1074238170 >}} [Crip Sensorama - Methods, Practices, and Thoughts (in the making)]
+
+I also wanna do a big shout out to many friends and collaborators without whom this work could not come into its full functionality and framing. Artist Yesica Duarte (PhD student at IT:U, Linz, Austria); Luke Franzke (PhD student at ZHdK, Switzerland); Artist Timothy Thomasson (independent artist in Montreal, Canada); NOTAAT (a collective that I share with Artist Kaldi Moss, independent artist in New Delhi, India)
 
 [1]: /img/Projects/CripGestures/MetaVerseImaginary.png
 [2]: /img/Projects/CripGestures/mallofthemetaverse.jpg

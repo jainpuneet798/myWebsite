@@ -18,11 +18,20 @@ Overall, genealogy of Puneet's work could be seen as an investigation in researc
 
 ##### Upcoming Talks/Residencies/Panel 
 
-* Talk at Zip-Scene Conference, Prague, DOX Centre for Contemporary Art (17th - 19th October, 2024)
-* Bodies, Machines, Publics Residency at Khoj Studios, New Delhi (21st October, 2024 - 13th December, 2024)
-* Talk at Disability, Technology and Change: Adjusting, hacking, and repairing as practices of inventing Workshop, Humboldt-Universität zu Berlin (15th - 16th November, 2024)
-* Talk at 'Symposium in Time' at Zurich University of Arts, Switzerland (29th - 30th November, 2024)
+* Webinar – Digital inclusion and accessibility: Leaving no one behind in virtual worlds and the citiverse for International Telecommunication Union (ITU), Geneva, Switzerland (15th May, 2025)
+* Artist presentation for our (Yesica Duarte and Puneet Jain) co-authored selected paper 'Challenging Disability and Interaction Norms
+in XR: Cooling Down the Empathy Machine in Waiting for Hands' at xCoAx Conference in Dundee, Scotland (9th - 11th July, 2025)
+* TABOO - TRANSGRESSION - TRANSCENDENCE in Art & Science Conference, Ljubljana, Slovenia (9th - 13th September, 2025)
 
+##### Past Talks/Residencies/Panel/Conferences 
+
+* Attended ACM CHI Conference, Yokohama, Japan (25th April - 1st May, 2025)
+* Guest Lecture at Chicago University, USA [invited by Desiree Foerster] (8th April, 2025)
+* Panel discusstion at College of Art Association, Conference, New York, USA (14th - 15th February, 2025)
+* Talk at 'Symposium in Time' at Zurich University of Arts, Switzerland (29th - 30th November, 2024)
+* Talk at Disability, Technology and Change: Adjusting, hacking, and repairing as practices of inventing Workshop, Humboldt-Universität zu Berlin (15th - 16th November, 2024)
+* Bodies, Machines, Publics Residency at Khoj Studios, New Delhi (21st October, 2024 - 13th December, 2024)
+* Talk at Zip-Scene Conference, Prague, DOX Centre for Contemporary Art (17th - 19th October, 2024)
 
 ##### Past Experience
 

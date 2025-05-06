@@ -12,8 +12,9 @@ weight = 1
 
 ###### Dwell time is the threshold time for which one has to fixate their eyes (or gaze) on a key/button on the screen to perform a mouse click through gaze.
 
+![][1]
+
 {{< vimeo 885661655 >}}
-{{< video src="/img/Projects/VirtualKeyboard/Adaptive Dwell.mp4" class="my-video" width="640" height="360" >}}
 
 
 ## Objectives  of the project
@@ -42,13 +43,11 @@ weight = 1
 
 ##### Iterative Design Methodology: Trial and Test Runs on Disabled and Non-Disabled Users
 
-![This is me][1]
 
 The image above depicts one of the initial prototypes that we built for gaze-typing. Kritika (able-bodied) who is a PhD student at IISc (in the image) is using the application to type their name. We use a Tobii Eye tracker to track the eye movements on a 17-inch screen. The keyboard is also integrated with visual (yellow boundary for the button on which gaze is fixated) and auditory (pronouncing the character typed) feedback.
 
 While the keyboard can be used by the able-bodied persons too, one of its prime importance comes into picture when they are operated by children (motor impaired) at Vidya Sagar (formerly known as the Spastic Society of India), Chennai, India.  
 
-![This][2]
 
 {{< vimeo 809064852>}} [A disabled) user testing the keyboard for calculating the variation in dwell time as compared to people with disabilities]
 
@@ -56,7 +55,6 @@ While the keyboard can be used by the able-bodied persons too, one of its prime 
 
 The dwell time algorithm developed by me was further integrated into applications such as browser navigation through eye-gaze (built and developed by collaborator Kamal Preet Singh). One of such applications was in use by Dr. M. Vijayan (uptil his death in 2022). 
 
-{{< video src="/img/Projects/VirtualKeyboard/Vijayan SIr.mp4" class="my-video" width="640" height="360" >}} [Late Dr. M Vijayan using a eye-gaze based browser navigation application operated using dynamically adapting dwell time of the keys]
 
 ##### Final Prototype
 
@@ -66,7 +64,7 @@ The dwell time algorithm developed by me was further integrated into application
 
 
 
-[1]: /img/Projects/VirtualKeyboard/kritika.jpg
+[1]: /img/Projects/VirtualKeyboard/Picture1.gif
 [2]: /img/Projects/VirtualKeyboard/img4.jpg
 [3]: /img/Projects/VirtualKeyboard/img3.jpg
 [4]: /img/Projects/VirtualKeyboard/virtualKeyboard.png
